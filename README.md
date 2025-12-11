@@ -51,7 +51,8 @@ import random
 
 # Notes
 
-Datasets are currently stored in Google Drive, but you can adapt paths as needed for local use.
+Datasets are currently stored in Google Drive, but you can adapt paths as needed for local use. Please do try to run the notebooks first in a colab environment, ensuring python/library compatability.
+
 This is still an undergoing project, running this might be a bit messy.
 
 # References
